@@ -10,5 +10,10 @@ package banco;
  * @author Carlos Ruiz
  */
 public class Cliente {
+    private String nombre;
+    
+    public void Cliente (String nombre){
+        this.nombre = nombre;
+    }
     
 }
