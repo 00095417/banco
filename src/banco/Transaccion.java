@@ -10,5 +10,9 @@ package banco;
  * @author Carlos Ruiz
  */
 public class Transaccion {
+    private int saldo;
+    
+    public void depositar(){}
+    
     
 }
